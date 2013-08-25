@@ -32,7 +32,7 @@ Battle physics. 50%
 Storyline 2%
 2 player online co-op 75% (Playable)
 Character HUD with character stats. 25% (Currently displays HP SP & LVL)
-Map progress 1% (Only two debug maps are currently active ingame.)
+Map progress 1% (Only two debug maps are currently active ingame.) 
 
 
 
